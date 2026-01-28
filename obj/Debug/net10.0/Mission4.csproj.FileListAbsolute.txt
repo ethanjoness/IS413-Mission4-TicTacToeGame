@@ -1,0 +1,15 @@
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/bin/Debug/net10.0/Mission4
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/bin/Debug/net10.0/Mission4.deps.json
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/bin/Debug/net10.0/Mission4.runtimeconfig.json
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/bin/Debug/net10.0/Mission4.dll
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/bin/Debug/net10.0/Mission4.pdb
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.AssemblyInfoInputs.cache
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.AssemblyInfo.cs
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.csproj.CoreCompileInputs.cache
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.sourcelink.json
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.dll
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/refint/Mission4.dll
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.pdb
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/Mission4.genruntimeconfig.cache
+/Users/ethanjones/Desktop/IS413/RiderProjects/Mission4/obj/Debug/net10.0/ref/Mission4.dll

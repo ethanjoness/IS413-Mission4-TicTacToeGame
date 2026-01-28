@@ -19,7 +19,6 @@ class Program
             }
         }
 
-
         // Create an instance of the supporting class
         Support game = new Support();
 
